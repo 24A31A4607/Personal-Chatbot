@@ -1,35 +1,68 @@
-# Personal Chatbot – Askify 🤖
+# Askify
 
-Askify is a personalized AI chatbot built using Python and web technologies.  
-It allows users to interact with an intelligent assistant through a simple and user-friendly interface.
+### AI-Powered Personalized Learning Chatbot
 
-## Purpose
-This project was built for learning and demonstrating chatbot development.
-# Personal Chatbot – Askify 🤖
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black?logo=flask)
+![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-orange?logo=javascript)
+![Status](https://img.shields.io/badge/Project-Active-success)
 
-Askify is a personalized AI chatbot built using Python and web technologies.
-It allows users to interact with an intelligent assistant through a simple
-and user-friendly interface.
+---
 
-## Features
-- Personalized chatbot responses
-- Frontend + backend architecture
-- Simple and clean UI
-- Easy to run locally
+## 📌 Overview
 
-## Tech Stack
-- Python
-- HTML, CSS, JavaScript
-- Flask (if used)
-- Git & GitHub
+Askify is an AI-driven chatbot designed to support students through personalized and interactive learning experiences. It combines a Python backend with a clean web interface to deliver intelligent responses in real time.
 
-## How to Run
-1. Clone the repository
-2. Install requirements  
-   `pip install -r requirements.txt`
-3. Run the backend  
-   `python app.py`
-4. Open the frontend in browser
+---
 
-## Author
-**Chinni**
+##  Features
+
+* Personalized and context-aware chatbot responses
+* Clean and user-friendly interface
+* Full-stack implementation (frontend + backend)
+* Easy setup and execution
+* Scalable architecture for future improvements
+
+---
+
+##  Tech Stack
+
+* **Backend:** Python, Flask
+* **Frontend:** HTML, CSS, JavaScript
+* **Tools:** Git, GitHub
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone <your-repository-link>
+cd askify
+pip install -r requirements.txt
+python app.py
+```
+
+Then open the frontend in your browser.
+
+---
+
+##  Objectives
+
+* Build an AI-based chatbot for personalized learning
+* Understand full-stack integration
+* Create a scalable foundation for future AI features
+
+---
+
+##  Future Enhancements
+
+* Advanced NLP integration
+* User authentication system
+* Chat history & analytics
+* Enhanced UI/UX
+
+---
+
+## 👩‍💻 Author
+
+**Geeta**
